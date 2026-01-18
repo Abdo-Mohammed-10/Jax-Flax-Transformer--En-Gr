@@ -1,5 +1,5 @@
 # Transformer EN - > GR with JAX & Flax 🚀
-[![Open In Colab](https://colab.research.google.com/drive/1Y3HIB7abTZqS4ggOcyEEIxS-Lk09dZ54?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y3HIB7abTZqS4ggOcyEEIxS-Lk09dZ54?usp=sharing)
 [![JAX](https://img.shields.io/badge/JAX-Accelerated%20Linear%20Algebra-blue)](https://github.com/google/jax)
 [![Flax](https://img.shields.io/badge/Flax-Neural%20Network%20Library-green)](https://github.com/google/flax)
 [![Optax](https://img.shields.io/badge/Optax-Optimization-red)](https://github.com/deepmind/optax)
